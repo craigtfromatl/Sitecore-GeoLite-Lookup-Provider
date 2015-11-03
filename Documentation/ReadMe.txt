@@ -1,0 +1,1 @@
+﻿For additional information on the creation of the SharedSource.GeoLite module, please see the blog post at http://www.craigtaylor.us/2013/08/creating-geoip-lookup-provider-for.html
